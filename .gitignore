@@ -1,0 +1,17 @@
+# Ignore arquivos e pastas do Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.db
+*.vscode/
+
+# Ignore pacotes temporários
+packages/
+
+# Ignore arquivos do sistema
+Thumbs.db
+desktop.ini
